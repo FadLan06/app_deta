@@ -1,0 +1,104 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Hp ASUS",
+      "harga": "250000",
+      "is_ready": true,
+      "gambar": "hp.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Laptop ASUS",
+      "harga": "150000",
+      "is_ready": true,
+      "gambar": "laptop.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Powerbank ASUS",
+      "harga": "10000",
+      "is_ready": true,
+      "gambar": "powerbank.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Hp ASUS",
+      "harga": "250000",
+      "is_ready": true,
+      "gambar": "hp.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Laptop ASUS",
+      "harga": "150000",
+      "is_ready": true,
+      "gambar": "laptop.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Powerbank ASUS",
+      "harga": "10000",
+      "is_ready": true,
+      "gambar": "powerbank.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Hp Samsung",
+      "harga": "30000",
+      "is_ready": true,
+      "gambar": "hp1.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Laptop Samsung",
+      "harga": "50000",
+      "is_ready": true,
+      "gambar": "laptop1.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Powerbank Samsung",
+      "harga": "52000",
+      "is_ready": true,
+      "gambar": "powerbank1.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Hp Xiaomi",
+      "harga": "12000",
+      "is_ready": true,
+      "gambar": "hp2.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Laptop Xiaomi",
+      "harga": "40000",
+      "is_ready": true,
+      "gambar": "laptop2.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Powerbank Xiaomi",
+      "harga": "37000",
+      "is_ready": true,
+      "gambar": "powerbank2.jpg"
+    }
+  ],
+  "keranjangs": [],
+  "pesanans": []
+}

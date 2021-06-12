@@ -1,0 +1,5 @@
+Run : vue ui
+Depedensi : axios, bootstrap-vue, vue-router, vue-toats-notification
+Plugin : @vue/cli-plugin-router
+Desain : undraw.co
+Font : Montserrat

@@ -1,0 +1,72 @@
+#app {
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+
+.hp {
+    text-align: center;
+    font-size: 12px;
+}
+
+.hp h2 {
+    font-size: 28px;
+}
+
+.router-link-exact-active {
+    font-weight: bold;
+}
+
+.btn-deta {
+    background-color: #00aaff;
+    border: 1px solid #00aaff;
+    color: white;
+}
+
+.btn-deta:active,
+.btn-deta:focus,
+.btn-deta:hover,
+.btn-deta.active,
+.btn-deta.focus,
+.btn-deta:active,
+.btn-deta:focus,
+.btn-deta:hover,
+.open>.dropdown-toggle.btn-deta,
+.btn-outline-deta.active,
+.btn-outline-deta:active,
+.show>.btn-outline-deta.dropdown-toggle,
+.btn-outline-deta:hover,
+.btn-deta.active,
+.btn-deta:active,
+.show>.btn-deta.dropdown-toggle {
+    background-color: #038dd1;
+    border: 1px solid #038dd1;
+    color: white;
+}
+
+.badge-deta {
+    background-color: #00aaff;
+    color: white;
+}
+
+.card-product {
+    border-radius: 15px;
+}
+
+.card-img-top {
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+
+.img-fluid {
+    border-radius: 15px;
+}
+
+.breadcrumb {
+    background-color: transparent;
+    padding: 0px;
+}
+
+.breadcrumb-item.active {
+    font-weight: bold;
+    color: black;
+}
